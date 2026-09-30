@@ -10,4 +10,4 @@ Foundations and Trends® in Robotics, 12(4), pp.350-425.
 
 * A Dzedzickis, J Subačiūtė-Žemaitienė, E Šutinys… - Applied Sciences, 2021
 [New approaches to robotics ](https://www.science.org/doi/abs/10.1126/science.253.5025.1227?referrer=https%3A%2F%2Fscholar.google.com%2F)
-Applied Sciences, 2021 - mdpi.com  
+New approaches to robotics. Science, 253(5025), pp.1227-1232. 
