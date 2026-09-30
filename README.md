@@ -1,4 +1,4 @@
-# Embodied-Intelligence
+# Embodied Intelligence
 
 ##
 
